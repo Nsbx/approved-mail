@@ -1,0 +1,5 @@
+Suite à votre livraison Chronopost
+Votre colis {company-name} est en cours de livraison {tracking-number}
+Votre colis {company-name} est en chemin {tracking-number}
+Votre colis est en chemin {tracking-number}
+Votre colis est en cours de livraison {tracking-number}
