@@ -1,0 +1,17 @@
+Amazon Reviews <no-reply@amazon.fr>
+Merci d&#x27;avoir signalé un commentaire
+
+retour@amazon.fr <retour@amazon.fr>
+Votre remboursement pour {product-name}
+
+Amazon.fr <confirmation-commande@amazon.fr>
+Votre commande Amazon.fr de « {product-name} » a été expédiée.
+
+Amazon.fr <shipment-tracking@amazon.fr>
+Livraison prévue pour aujourd’hui: {product-name}
+
+Amazon.fr <order-update@amazon.fr>
+Livré : Votre commande Amazon.fr n° {order-number}
+
+{company-name} - EU - Marketplace d'Amazon.fr <{random-string}@marketplace.amazon.fr>
+[Important] Votre protection {company-name} a été annulée. Référence : {reference-number}
